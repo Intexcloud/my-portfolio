@@ -22,7 +22,6 @@ export default async function Home() {
           <Education data={data.education}></Education>
           <Volunteering data={data.volunteering}></Volunteering>
           <Projects data={data.projects}></Projects>
-          <Credits data={data.general}></Credits>
         </div>
       </div>
     </main>
