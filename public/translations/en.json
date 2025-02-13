@@ -1,0 +1,108 @@
+{
+    "general": {
+        "name": "Sandy Aprilyanto",
+        "headline": "Undergraduate in Information System | Data Analyst",
+        "about": [
+            "Hey there! 👋",
+            "Final year Information System student with strong data analysis, statistical modeling, and visualization skills.",
+            "Proficient in Python, SQL, Excel, Power BI, and Tableau. Demonstrates analytical thinking, problem-solving, and passion for data-driven decision-making.",
+            "Based in Tegal,Central Java, Indonesia"
+        ],
+        "socials": {
+            "email": "sandyaprlynto@mail.com",
+            "linkedin": "https://www.linkedin.com/in/sandyaprilyanto",
+            "github": "https://github.com/Intexcloud"
+        }
+    },
+    "experiences": [
+        {
+            "title": "App Developer",
+            "company": "Department of Marine Affairs and Fisheries, Agriculture and Food",
+            "href": "https://tegalkota.go.id/v2/index.php?option=com_content&view=article&id=384&Itemid=293&lang=id",
+            "startDate": "08/2024",
+            "endDate": "12/2024",
+            "description": "Developing custom software solutions for client needs, and meeting all auction requirements in java.",
+            "logo": "/logos/DP3.png",
+            "skills": ["Java", "MySQL"]
+        },
+        {
+            "title": "Data Analyst",
+            "company": "Department of Communication and Informatics",
+            "href": "https://diskominfo.salatiga.go.id/",
+            "startDate": "01/2025",
+            "endDate": "Present",
+            "description": "Implemented predictive modeling processes, improved accuracy rates on LSTM algorithm, enhancing strategic decision-making for cross-functional teams and data normalization algorithms.",
+            "logo": "/logos/kominfo.png",
+            "skills": ["Power BI", "Excel","Python"]
+        }
+    ],
+    "education": [
+        {
+            "subject": "Information System",
+            "degree": "Undergraduate",
+            "university": "Satya Wacana Christian University", 
+            "href": "https://www.uksw.edu/",
+            "startDate": "2021", 
+            "endDate": "Present", 
+            "description": "Learning the pattern of utilizing information technology to analyze, design, implement, and evaluate and manage an information system in business organizations and entrepreneurs that is effective and efficient."
+        },
+        {
+            "subject": "Social Sciences",
+            "degree": "Highschool Graduate",
+            "university": "Pius Junior High School", 
+            "href": "",
+            "startDate": "2019", 
+            "endDate": "2021", 
+            "description": ""
+        }
+    ],
+    "volunteering": [
+        {
+            "position": "Staff Secretary",
+            "event": "Lembaga Kemahasiswaan Fakultas Universitas Kristen Satya Wacana",
+            "organisation": "",
+            "href": "",
+            "startDate": "Jan 2023",
+            "endDate": "Des 2023",
+            "description": "Assisted the management team by maintaining accurate records of meetings,Developed and executed a comprehensive training program for new commission members"
+        },
+        {
+            "position": "Program Commision ",
+            "event": "Lembaga Kemahasiswaan Universitas Kristen Satya Wacana ",
+            "organisation": "",
+            "href": "",
+            "startDate": "Dec 2023",
+            "endDate": "Sept 2024",
+            "description": "Revised 2024 University Student Affairs Program Outline, developed faculty training programs, and conducted comprehensive analysis of proposal and activity records."
+        }
+    ],
+    "projects": [
+        {
+            "name": "Predictive Modelling",
+            "framework": "Python",
+            "description": "Creating a Predictive Modelling Using Machine Learning Algorithm",
+            "href": "https://github.com/Intexcloud/BTCPrediction",
+            "stars": "1"
+        },
+       {
+            "name": "Spotify Analysis",
+            "framework": "Power BI, Excel",
+            "description": "Developed Analysis for Most Stream Songs and Artist using in Power BI.",
+            "href": "https://github.com/Intexcloud/Spotify-Analysis",
+            "stars": "1"
+       },
+       {
+        "name": "Sales Analysis",
+        "framework": "SQL",
+        "description": "Developed Analysis for customer and product by revenue, age and states using in PostgreSQL",
+        "href": "https://github.com/Intexcloud/SalesAnalysis",
+        "stars": "1"
+        },{
+            "name": "Sentiment Analysis",
+            "framework": "Python",
+            "description": "Analyzed the Sentiment of a President Candidate in Indonesia",
+            "href": "https://github.com/Intexcloud/Sentimen-analysis",
+            "stars": "1"
+        } 
+    ]
+}
