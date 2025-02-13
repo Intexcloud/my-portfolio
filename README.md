@@ -4,7 +4,7 @@ To clone and run this website, you'll need to paste the following steps in your 
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/karlgrossmann/two-column-portfolio
+$ git clone https://github.com/Intexcloud/my-portfolio
 
 # Go into the repository
 $ cd two-column-portfolio
