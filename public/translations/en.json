@@ -3,8 +3,8 @@
         "name": "Sandy Aprilyanto",
         "headline": "Undergraduate in Information System | Data Analyst",
         "about": [
-            "Hey there! 👋",
-            "Final year Information System student with strong data analysis, statistical modeling, and visualization skills.",
+            "Hey there! 👋 I'm Sandy",
+            "I'm a Final year Information System student with strong data analysis, statistical modeling, and visualization skills.",
             "Proficient in Python, SQL, Excel, Power BI, and Tableau. Demonstrates analytical thinking, problem-solving, and passion for data-driven decision-making.",
             "Based in Tegal,Central Java, Indonesia"
         ],
@@ -30,7 +30,7 @@
             "company": "Department of Communication and Informatics",
             "href": "https://diskominfo.salatiga.go.id/",
             "startDate": "01/2025",
-            "endDate": "Present",
+            "endDate": "03/2025",
             "description": "Implemented predictive modeling processes, improved accuracy rates on LSTM algorithm, enhancing strategic decision-making for cross-functional teams and data normalization algorithms.",
             "logo": "/logos/kominfo.png",
             "skills": ["Power BI", "Excel","Python"]
