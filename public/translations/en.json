@@ -1,10 +1,10 @@
 {
     "general": {
         "name": "Sandy Aprilyanto",
-        "headline": "Undergraduate in Information System | Data Analyst",
+        "headline": "Freshgraduate in Information System | Data Analyst",
         "about": [
             "Hey there! 👋 I'm Sandy",
-            "I'm a Final year Information System student with strong data analysis, statistical modeling, and visualization skills.",
+            "I'm a Freshgraduate Information System student with strong data analysis, statistical modeling, and visualization skills.",
             "Proficient in Python, SQL, Excel, Power BI, and Tableau. Demonstrates analytical thinking, problem-solving, and passion for data-driven decision-making.",
             "Based in Tegal,Central Java, Indonesia"
         ],
@@ -43,7 +43,7 @@
             "university": "Satya Wacana Christian University", 
             "href": "https://www.uksw.edu/",
             "startDate": "2021", 
-            "endDate": "Present", 
+            "endDate": "2025", 
             "description": "Learning the pattern of utilizing information technology to analyze, design, implement, and evaluate and manage an information system in business organizations and entrepreneurs that is effective and efficient."
         },
         {
